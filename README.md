@@ -12,3 +12,6 @@ GrapeVyne connects consumers directly with wineries, removing the middleman. Cus
 
  - **Technologies Used:**
    HTML, CSS, JavaScript
+
+- **Clone the Repository:**
+  https://github.com/yeshvinash/GrapeVyne.git
